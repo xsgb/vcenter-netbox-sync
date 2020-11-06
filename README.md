@@ -32,7 +32,7 @@ The following minimum software versions have been tested for compatibility.
 
 The following permissions are required for this script to function.
 * VMware vCenter - User account with "Read-only" role on vCenter root scope. The "Propogate to children" setting must also be checked.
-* NetBox - API token with "write enabled" permissions. Instructions are available in the [NetBox documentation](https://netbox.readthedocs.io/en/stable/api/authentication/).
+* NetBox - API token with "write enabled" permissions. Instructions are available in the [NetBox documentation](https://netbox.readthedocs.io/en/stable/rest-api/authentication/).
 
 ## Installation
 
